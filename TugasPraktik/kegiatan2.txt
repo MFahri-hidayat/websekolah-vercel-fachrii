@@ -1,0 +1,11 @@
+1)membuat audio player baru dan membuat atau mengekstrak audio dari src
+2)
+-.play() memulai pemutaran
+-.pause() menjeda pemutaran
+3)
+-<video> menampilkan pemutar video diweb
+-<controls> menambahkan tombol controls bawaan dari browser
+4)
+-:adalah shorthand untuk v-bind
+-src di-bind kenilai Javascript
+-variabel bisa berupa data, prop, atau computed

@@ -1,0 +1,5 @@
+1)LandingPage.Vue
+2)Footer,Navbar,Component
+3)Karena belanja online di sekolah bukan cuma soal klik tombol.
+gambar,suara,dan video bikin produk lebih jelas,menarik,dan mudah dipercaya.
+orang jadi cepat paham apa yang dijual,gak cepat bingung,dan lebih semangat pakainya.
